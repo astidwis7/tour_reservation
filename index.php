@@ -45,7 +45,7 @@
                             <img class="features-icons-icon d-flex m-auto" src="assets/img/purbakala.jpg">
                             <h5>Museum Purbakala Sangiran</h5><br>
                             <p>Kabupaten Sragen, Kawasan Kubah Sangiran</p>
-                            <h6>40.000</h3>
+                            <h6>40.000</h6>
                         </div>
                     </div>
                     <div class="col-lg-4">
