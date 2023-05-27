@@ -1,1 +1,1 @@
-Tour Reservation App
+Tour Reservation
