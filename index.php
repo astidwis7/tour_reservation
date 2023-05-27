@@ -1,9 +1,3 @@
-<?php
-$koneksi    = mysqli_connect("localhost", "root", "", "pariwisata");
-$waktu      = mysqli_query($koneksi, "SELECT tanggal FROM pesan order by tanggal asc");
-$pengunjung = mysqli_query($koneksi, "SELECT dewasa FROM pesan order by tanggal asc");
-?>
-
 <!DOCTYPE html>
 <html lang="en">
     <head>
