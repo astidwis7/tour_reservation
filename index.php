@@ -31,7 +31,7 @@
                     <div class="col-xl-6">
                         <div class="text-center text-white">
                             <h1 class="mb-5">BRILLIANT</h1>
-                            <h2 class="mb-5">Brilliant Healing Assistant</h1>
+                            <h2 class="mb-5">Brilliant Healing Assistant</h2>
                         </div>
                     </div>
                 </div>
